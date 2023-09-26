@@ -34,5 +34,5 @@ v
 1app install git-y
 2git clone htts://github.com/Euronymou5/Doxxer-Toolkit
 3cd Doxxer-Toolkit
-4bash install.sh
-5python3 dox.py
+4bash install.
+
